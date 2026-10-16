@@ -8,8 +8,8 @@
       "media/shot1791357868.png",
       "media/shot1791357879.png"
     ],
-    "icon": "media/IMG_20261016_164125.png",
-    "cover": "media/IMG_20261016_164328.png",
+    "icon": "media/IMG_20261016_181317.png",
+    "cover": "media/mmexport1792145525022.jpg",
     "author": [
       {
         "name": "9588",
@@ -23,14 +23,9 @@
   },
   "links": [],
   "downloads": {
-    "xmws541": {
-      "version": "1.1.0",
-      "file_name": "downloads/分贝测量_v1.1.0_debug.rpk",
-      "versionCode": 11
-    },
     "xmws5": {
       "version": "1.1.0",
-      "file_name": "downloads/分贝测量_v1.1.0_debug.rpk",
+      "file_name": "downloads/分贝测量_v1.1.0_release.rpk",
       "versionCode": 11
     }
   },
