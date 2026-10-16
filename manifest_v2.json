@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "com.lrc.noisemeter",
+    "restype": "quick_app",
+    "name": "分贝测量",
+    "description": "米穿戴首个分贝测量软件",
+    "preview": [
+      "media/shot1791357868.png",
+      "media/shot1791357879.png"
+    ],
+    "icon": "media/IMG_20261016_164125.png",
+    "cover": "media/IMG_20261016_164328.png",
+    "author": [
+      {
+        "name": "9588",
+        "bindABAccount": true
+      },
+      {
+        "name": "LR.C",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmws541": {
+      "version": "1.1.0",
+      "file_name": "downloads/分贝测量_v1.1.0_debug.rpk",
+      "versionCode": 11
+    },
+    "xmws5": {
+      "version": "1.1.0",
+      "file_name": "downloads/分贝测量_v1.1.0_debug.rpk",
+      "versionCode": 11
+    }
+  },
+  "ext": {}
+}
