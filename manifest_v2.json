@@ -5,18 +5,17 @@
     "name": "分贝测量",
     "description": "米穿戴首个分贝测量软件",
     "preview": [
-      "media/shot1791357868.png",
-      "media/shot1791357879.png"
+      "media/微信图片_20261016221424_61_34.jpg",
+      "media/微信图片_20261016221430_66_34.jpg",
+      "media/微信图片_20261016221425_62_34.jpg",
+      "media/微信图片_20261016221428_64_34.jpg",
+      "media/微信图片_20261016221427_63_34.jpg"
     ],
-    "icon": "media/IMG_20261016_181317.png",
-    "cover": "media/mmexport1792145525022.jpg",
+    "icon": "media/图标_192x192.png",
+    "cover": "media/封面_分贝测量_1200x800.png",
     "author": [
       {
         "name": "9588",
-        "bindABAccount": true
-      },
-      {
-        "name": "LRC",
         "bindABAccount": true
       }
     ]
